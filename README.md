@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 💻 Aspiring Backend Developer, currently navigating the Full-Stack world<br>🌍 Based in Gujarat, India<br>⚙️ Passionate about building scalable systems, clean APIs, and exploring backend architectures<br>🌱 Constantly learning new tech and sharpening my skills<br>🚀 On a journey from "forced full-stack" to backend specialist
 
 
