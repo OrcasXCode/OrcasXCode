@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="Banner that says Ommmm - Aspiring Backend Developer from Gujarat, currently full-stack by force, passionate about clean APIs and scalable systems">
+
 # 💫 About Me
 💻 Aspiring Backend Developer, currently navigating the Full-Stack world<br>🌍 Based in Gujarat, India<br>⚙️ Passionate about building scalable systems, clean APIs, and exploring backend architectures<br>🌱 Constantly learning new tech and sharpening my skills<br>🚀 On a journey from "forced full-stack" to backend specialist
 
